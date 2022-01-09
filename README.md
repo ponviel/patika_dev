@@ -3,6 +3,7 @@
 Bu repo'da katildigim patika'lardan cikardigim notlari
 ve yazdigim soru cozumlerini paylasacagim.
 
+<h2>'Python Temel' Patikasi</h2>
 Python Temel patika'sindaki bitirme projesi olarak
 sorulan 2 soru icin yazdigim cozumler;
 
